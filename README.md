@@ -1,7 +1,8 @@
 ## trueidiot7.github.io
-# Systems Engineer
+## Systems Engineer
 # B.Tech Indian Institute of Information Technology (IIIT) Guwahati 2015-19
-
+Electronics and Communication Engineering
+# Experience
 This is a general diagram of the computer architecture layers, from whereever you look the layers above are interfaces and the layers below are implementations of those interfaces:
 
 ![Alt text](./Gen_Diag_svg_2.svg)
