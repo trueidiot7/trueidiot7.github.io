@@ -13,5 +13,5 @@ Following showcases my experience and work in the different layers while working
 
 
 
-![Alt text](./All_exp_2.svg)
+![Alt text](./All_exp_3.svg)
 
