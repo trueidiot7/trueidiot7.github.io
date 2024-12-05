@@ -1,13 +1,13 @@
 # trueidiot7.github.io
 
-This is a general diagram of the computer architecture layers in which I've worked in different companies_yz:
+This is a general diagram of the computer architecture layers, from whereever you look the layers above are interfaces and the layers below are implementations of those interfaces:
 
-![Alt text](./Gen_Diag_svg.svg)
-
-
+![Alt text](./Gen_Diag_svg_2.svg)
 
 
-Following is my experience in different companies and the layers I've contributed to during that time_yz:
+
+
+Following showcases my experience and work in the different layers while working across different orgs.
 
 
 
