@@ -1,4 +1,3 @@
-# trueidiot7.github.io
 # Systems Engineer
 ### Education
 #### B.Tech in Electronics and Communication Engineering
